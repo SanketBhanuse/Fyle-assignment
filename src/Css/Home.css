@@ -321,7 +321,7 @@
 
     #GrowthIndecator .gridWrapper {
             grid-template-columns: 49% 49%;
-               
+               row-gap: 20px;
                 text-align: center;
     }
     #GrowthIndecator .logo {
