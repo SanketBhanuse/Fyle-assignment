@@ -4,7 +4,7 @@ import image2 from '../Assets/image2.png';
 import image3 from '../Assets/image3.png';
 
 const ThumbnailSlider = () => {
-    const [activeIndex, setActiveIndex] = useState(2); // Initial active slide index
+    const [activeIndex, setActiveIndex] = useState(1); // Initial active slide index
 
     const handleSlideClick = (index) => {
         setActiveIndex(index);
